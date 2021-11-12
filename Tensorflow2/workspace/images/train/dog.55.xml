@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>catsanddogs</folder>
+	<filename>dog.55.jpg</filename>
+	<path>C:\catnd\train\catsanddogs\dog.55.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>420</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>16</ymin>
+			<xmax>487</xmax>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>test1</folder>
+	<filename>15.jpg</filename>
+	<path>C:\catnd\test1\15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>377</width>
+		<height>499</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>1</ymin>
+			<xmax>235</xmax>
+			<ymax>398</ymax>
+		</bndbox>
+	</object>
+</annotation>
